@@ -1,7 +1,7 @@
 # Scribble
 Scribble and share easily!
 
-[https://vercel.com/sossost-s-team/scribble](https://vercel.com/sossost-s-team/scribble)
+[https://scribblee.vercel.app/](https://scribblee.vercel.app/)
 
 ## Installation
 ```
